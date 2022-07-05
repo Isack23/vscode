@@ -1,0 +1,11 @@
+git init (inicia)
+
+git clone (link repositorio)
+
+git add . (adiciona)
+
+git status (ver)
+
+git commit -m "" (comita)
+
+git push origin main (enviar)
