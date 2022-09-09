@@ -9,3 +9,5 @@ git status (ver)
 git commit -m "" (comita)
 
 git push origin main (enviar)
+
+git branch -M "main" (caminho)
